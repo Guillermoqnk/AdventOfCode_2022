@@ -1,4 +1,4 @@
-﻿/*using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -68,4 +68,4 @@ namespace AdventOfCode_2022
             Console.WriteLine($"Total cals being carried by the TOP3 elves: {totalCalsCarried}");
         }
     }
-}*/
+}

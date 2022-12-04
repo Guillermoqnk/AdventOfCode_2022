@@ -10,8 +10,10 @@ namespace AdventOfCode_2022
     {
         static void Main(string[] args)
         {
-            Part1.Run();
+            //Part1.Run();
             //Part2.Run();
+            Part5.Run();
+            Part6.Run();
         }
     }
 }

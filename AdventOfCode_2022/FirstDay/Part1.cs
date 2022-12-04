@@ -18,8 +18,6 @@ namespace AdventOfCode_2022
             {
                 var x = await client.GetAsync(url);
                 Console.WriteLine(x);
-
-
             }
             catch (Exception ex) { Console.WriteLine(ex.ToString()); }
 
