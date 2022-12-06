@@ -5,7 +5,7 @@ namespace AdventOfCode_2022
 {
      class Part7
     {
-        public static async void Run()
+        public static void Run()
         {
             string[] input;
 
