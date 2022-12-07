@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ConsoleApp1;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -12,6 +13,7 @@ namespace AdventOfCode_2022
         {
             //Part1.Run(); //Day1
             //Part2.Run(); //Day1
+            Part4.Run(); //Day2
             //Part5.Run(); //Day3
             //Part6.Run(); //Day3
             //Part7.Run(); //Day4
