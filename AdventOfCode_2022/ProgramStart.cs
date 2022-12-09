@@ -23,7 +23,9 @@ namespace AdventOfCode_2022
             //Part11.Run(); //Day6
             //Part12.Run(); //Day6
             //Part13.Run();
-            Part14.Run();
+            //Part14.Run();
+            Part15.Run();
+            Part16.Run();
         }
     }
 }
